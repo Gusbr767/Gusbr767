@@ -1,4 +1,5 @@
-### Hi there 👋
+# Olá, me chamo Gustavo ! 
+## Bem vindo ao meu perfil GitHub 👋
 
 <!--
 **Gusbr767/Gusbr767** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
